@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nicolás 
+- 👀 I’m interested in economy
+- 🌱 I’m currently learning programming 
+- 💞️ From Bogotá, Colombia.
